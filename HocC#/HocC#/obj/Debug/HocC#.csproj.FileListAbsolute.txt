@@ -1,0 +1,7 @@
+C:\Users\juven\source\repos\HocC#\HocC#\bin\Debug\HocC#.exe.config
+C:\Users\juven\source\repos\HocC#\HocC#\bin\Debug\HocC#.exe
+C:\Users\juven\source\repos\HocC#\HocC#\bin\Debug\HocC#.pdb
+C:\Users\juven\source\repos\HocC#\HocC#\obj\Debug\HocC#.csproj.AssemblyReference.cache
+C:\Users\juven\source\repos\HocC#\HocC#\obj\Debug\HocC#.csproj.CoreCompileInputs.cache
+C:\Users\juven\source\repos\HocC#\HocC#\obj\Debug\HocC#.exe
+C:\Users\juven\source\repos\HocC#\HocC#\obj\Debug\HocC#.pdb
